@@ -18,8 +18,14 @@ npm install
 
 ### Compile and Hot-Reload for Development
 
+#### For frontend Vue.js
 ```sh
 npm run dev
+```
+
+#### For backend express.js
+```sh
+npm run server
 ```
 
 ### Compile and Minify for Production
